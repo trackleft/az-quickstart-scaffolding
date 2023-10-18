@@ -1,5 +1,5 @@
 {
-    "name": "az-digital/az-quickstart-scaffolding",
+    "name": "trackleft/az-quickstart-scaffolding",
     "description": "Arizona Quickstart Scaffolding for Composer",
     "type": "project",
     "license": "GPL-2.0-only",
@@ -27,7 +27,7 @@
     ],
     "require": {
         "php": ">=8.1",
-        "az-digital/az_quickstart": "~2.9",
+        "trackleft/az_quickstart": "~2.9",
         "composer/installers": "2.2.0",
         "cweagans/composer-patches": "1.7.3",
         "drupal/core-composer-scaffold": "*",
